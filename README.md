@@ -20,6 +20,9 @@ The project will be developed by using the following technologies:
 * 	Backend: Node.js, Express.js, and MongoDB
 * 	Other tools: Git, GitHub, and Visual Studio Code
 
+<p align="right">(<a href="#top">Back to top</a>)</p>
+
+
 ### Proposed System:
 The AirTracker application will be a web application that will be accessible to users on any device with a web browser. The application will use a variety of APIs to fetch flight data and to send price change notifications.
 Features:
@@ -37,6 +40,8 @@ The following is a high-level implementation plan for the AirTracker project:
 5.	Test the application.
 6.	Deploy the application.
 
+<p align="right">(<a href="#top">Back to top</a>)</p>
+
 ### Team Members:
 The following are the team members and their roles:
 * 	Pankaj Ajmera: Frontend development & Backend development
@@ -44,16 +49,23 @@ The following are the team members and their roles:
 * 	Rishit Gupta: Frontend development & Backend development
 * 	Akshat Maheswari: Frontend development & Backend development
 
+
 ### Resources Required:
 The following resources are required for the project:
 * 	Frontend technologies: HTML, CSS, JavaScript, and React
 * 	Backend technologies: Node.js, Express.js, and MongoDB
 * 	Basic tools: Git, GitHub, and Visual Studio Code
 
+<p align="right">(<a href="#top">Back to top</a>)</p>
+
+
 ### References:
 The following resources will be used as references for the project:
+* Online resources: YouTube, Google, Technologies Documentations, etc.
+* Other resources: Mentor guidance.
 
-### Screenshots:
+
+### Output:
 
 ## Login Page :
 ![Output Screen shot](ImagesOutput/login.png)
@@ -64,6 +76,7 @@ The following resources will be used as references for the project:
 ## Explore Page :
 ![Output Screen shot](ImagesOutput/explore.png)
 
+<p align="right">(<a href="#top">Back to top</a>)</p>
 
 
 
