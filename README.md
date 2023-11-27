@@ -7,7 +7,6 @@ The main objectives of this project are to develop a web application that allows
 * 	Search for the cheapest flights
 * 	Track ticket prices
   
-
 ### Scope:
 The project will cover the following features:
 * 	Flight search functionality: Users can search for flights by specifying their origin, destination, and travel dates. The application will display a list of flights with their corresponding prices.
@@ -19,9 +18,6 @@ The project will be developed by using the following technologies:
 * 	Frontend: React, HTML, CSS, and JavaScript
 * 	Backend: Node.js, Express.js, and MongoDB
 * 	Other tools: Git, GitHub, and Visual Studio Code
-
-<p align="right">(<a href="#top">Back to top</a>)</p>
-
 
 ### Proposed System:
 The AirTracker application will be a web application that will be accessible to users on any device with a web browser. The application will use a variety of APIs to fetch flight data and to send price change notifications.
@@ -40,8 +36,6 @@ The following is a high-level implementation plan for the AirTracker project:
 5.	Test the application.
 6.	Deploy the application.
 
-<p align="right">(<a href="#top">Back to top</a>)</p>
-
 ### Team Members:
 The following are the team members and their roles:
 * 	Pankaj Ajmera: Frontend development & Backend development
@@ -49,21 +43,17 @@ The following are the team members and their roles:
 * 	Rishit Gupta: Frontend development & Backend development
 * 	Akshat Maheswari: Frontend development & Backend development
 
-
 ### Resources Required:
 The following resources are required for the project:
 * 	Frontend technologies: HTML, CSS, JavaScript, and React
 * 	Backend technologies: Node.js, Express.js, and MongoDB
 * 	Basic tools: Git, GitHub, and Visual Studio Code
 
-<p align="right">(<a href="#top">Back to top</a>)</p>
-
-
 ### References:
 The following resources will be used as references for the project:
 * Online resources: YouTube, Google, Technologies Documentations, etc.
 * Other resources: Mentor guidance.
-
+<p align="right">(<a href="#top">Back to top</a>)</p>
 
 ### Output:
 
