@@ -52,3 +52,21 @@ The following resources are required for the project:
 
 ### References:
 The following resources will be used as references for the project:
+
+### Screenshots:
+
+## Login Page :
+![Output Screen shot](ImagesOutput/login.png)
+
+## Home Page :
+![Output Screen shot](ImagesOutput/home.png)
+
+## Explore Page :
+![Output Screen shot](ImagesOutput/explore.png)
+
+
+
+
+
+
+
