@@ -66,6 +66,9 @@ The following resources will be used as references for the project:
 ## Best Results :
 ![Output Screen shot](ImagesOutput/result.png)
 
+## Passenger Booking :
+![Output Screen shot](ImagesOutput/book.png)
+
 ## Explore more :
 ![Output Screen shot](ImagesOutput/explore.png)
 
