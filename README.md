@@ -55,6 +55,32 @@ The following resources will be used as references for the project:
 * Other resources: Mentor guidance.
 <p align="right">(<a href="#top">Back to top</a>)</p>
 
+## Requirements
+
+- nodejs
+- npm
+
+## Getting started
+
+To get started with this project, first install the npm dependencies:
+
+```bash
+npm install
+```
+
+Next, run the development server:
+
+```bash
+npm run dev
+```
+Next, open localhost server:
+
+```bash
+localhost:5173
+```
+
+
+
 ### Output:
 
 
