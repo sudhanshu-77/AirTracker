@@ -57,13 +57,16 @@ The following resources will be used as references for the project:
 
 ### Output:
 
-## Login Page :
+## Login :
 ![Output Screen shot](ImagesOutput/login.png)
 
-## Home Page :
+## Home :
 ![Output Screen shot](ImagesOutput/home.png)
 
-## Explore Page :
+## Best Results :
+![Output Screen shot](ImagesOutput/result.png)
+
+## Explore more :
 ![Output Screen shot](ImagesOutput/explore.png)
 
 <p align="right">(<a href="#top">Back to top</a>)</p>
