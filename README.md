@@ -1,9 +1,13 @@
+<h1 align="center">AirTracker: Affordable Flight Companion</h1>
+<div align="center">
+<a href="https://github.com/sudhanshu-77/AirTracker/issues"><img src="https://img.shields.io/github/issues/sudhanshu-77/AirTracker"></a>
+<a><img src="https://img.shields.io/github/forks/sudhanshu-77/AirTracker"></a>
+<a><img src="https://img.shields.io/github/stars/sudhanshu-77/AirTracker"></a>
+</div>
 
-# AirTracker: A MERN Stack Application.
 
 
-## <a align="left"> Project Demonstration Video </a> [Link](https://youtu.be/O0dEew24_XM?si=XBNtTMTE5BO2LzJH).
-
+## <a align="left"> Live Website </a> [Link](https://sunny-parfait-d420bc.netlify.app/).
 
 
 ### Objective:
@@ -85,12 +89,9 @@ localhost:5173
 
 
 
-### Output:
+## Output:
 
-
-## <a align="left"> Live Website </a> [Link](https://sunny-parfait-d420bc.netlify.app/).
-
-
+## <a align="left"> Project Demonstration Video </a> [Link](https://youtu.be/O0dEew24_XM?si=XBNtTMTE5BO2LzJH).
 
 ## Login :
 ![Output Screen shot](ImagesOutput/login.png)
