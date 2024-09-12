@@ -1,8 +1,11 @@
 <h1 align="center">AirTracker - Affordable Flight Companion</h1>
 <div align="center">
+<a href="https://github.com/sudhanshu-77/AirTracker/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/sudhanshu-77/AirTracker?color=2b9348"></a>
 <a href="https://github.com/sudhanshu-77/AirTracker/issues"><img src="https://img.shields.io/github/issues/sudhanshu-77/AirTracker"></a>
 <a><img src="https://img.shields.io/github/forks/sudhanshu-77/AirTracker"></a>
 <a><img src="https://img.shields.io/github/stars/sudhanshu-77/AirTracker"></a>
+
+[![](https://visitcount.itsvg.in/api?id=sudhanshu-77-AirTracker&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 </div>
 
 
