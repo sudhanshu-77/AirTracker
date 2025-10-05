@@ -2,3 +2,51 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Dark mode transitions */
+* {
+  transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Ensure dark mode works properly */
+html.dark {
+  color-scheme: dark;
+}
+
+body {
+  @apply bg-gray-50 dark:bg-gray-900 text-gray-900 dark:text-gray-100;
+}
+
+/* Dark mode scrollbar */
+::-webkit-scrollbar {
+  @apply w-2;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-gray-100 dark:bg-gray-800;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-gray-300 dark:bg-gray-600 rounded-full;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-gray-400 dark:bg-gray-500;
+}
+
+/* Dark mode form inputs */
+input, select, textarea {
+  @apply dark:bg-gray-800 dark:border-gray-600 dark:text-white;
+}
+
+input:focus, select:focus, textarea:focus {
+  @apply dark:border-orange-500 dark:ring-orange-500/20;
+}
+
+/* Dark mode shadows */
+.shadow-sm { @apply dark:shadow-gray-900/20; }
+.shadow { @apply dark:shadow-gray-900/30; }
+.shadow-md { @apply dark:shadow-gray-900/40; }
+.shadow-lg { @apply dark:shadow-gray-900/50; }
+.shadow-xl { @apply dark:shadow-gray-900/60; }
+.shadow-2xl { @apply dark:shadow-gray-900/70; }
+

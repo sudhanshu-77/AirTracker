@@ -1,13 +1,41 @@
 {
-  "name": "airtracker01",
-  "private": true,
-  "version": "0.0.0",
+  "name": "airtracker",
+  "private": false,
+  "version": "2.0.0",
+  "description": "Modern flight booking platform with real-time tracking and PWA features",
+  "author": {
+    "name": "Sudhanshu Tripathi",
+    "email": "sudhanshu.tripathi77@gmail.com",
+    "url": "https://github.com/sudhanshu-77"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sudhanshu-77/AirTracker.git"
+  },
+  "homepage": "https://airtracker-app.vercel.app",
+  "keywords": [
+    "flight-booking",
+    "travel",
+    "react",
+    "pwa",
+    "real-time-tracking",
+    "price-alerts",
+    "modern-ui"
+  ],
+  "license": "MIT",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite preview"
+    "lint:fix": "eslint . --ext js,jsx --fix",
+    "preview": "vite preview",
+    "test": "vitest",
+    "test:coverage": "vitest --coverage",
+    "format": "prettier --write \"src/**/*.{js,jsx,json,css,md}\"",
+    "format:check": "prettier --check \"src/**/*.{js,jsx,json,css,md}\"",
+    "analyze": "npm run build && npx vite-bundle-analyzer dist/stats.html",
+    "clean": "rm -rf dist node_modules/.cache"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.2",
