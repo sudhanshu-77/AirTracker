@@ -13,36 +13,28 @@
   [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3.0+-green.svg)](https://tailwindcss.com/)
   [![PWA](https://img.shields.io/badge/PWA-Enabled-purple.svg)](https://web.dev/progressive-web-apps/)
   
-
   [![](https://visitcount.itsvg.in/api?id=sudhanshu-77&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 </div>
 
 ## 🚀 Live Deployments
 
-- **🌐 Netlify**: [https://airtraker.netlify.app/](https://airtraker.netlify.app/)
-- **⚡ Vercel**: [https://air-tracker-umber.vercel.app/](https://air-tracker-umber.vercel.app/)
+- ## ⚡ Vercel: Live Website </a> [Link](https://air-tracker-umber.vercel.app/).
 
 ## 📋 Table of Contents
 
-<details>
-<summary>📖 Click to expand sections</summary>
+- [Overview](#overview)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Quick Start](#quick-start)
+- [Environment Setup](#environment-setup)
+- [Project Structure](#project-structure)
+- [API Integration](#api-integration)
+- [Demo & Screenshots](#demo--screenshots)
+- [Contributing](#contributing)
+- [Team](#team)
+- [License](#license)
 
-- [🎯 Overview](#overview)
-- [✨ Features](#features)
-- [🛠️ Tech Stack](#tech-stack)
-- [🚀 Quick Start](#quick-start)
-- [🔧 Environment Setup](#environment-setup)
-- [📁 Project Structure](#project-structure)
-- [🔌 API Integration](#api-integration)
-- [🎬 Demo & Screenshots](#demo--screenshots)
-- [🤝 Contributing](#contributing)
-- [👥 Team](#team)
-- [📄 License](#license)
-
-</details>
-
-<details>
-<summary>🎯 Overview</summary>
+## 🎯 Overview
 
 AirTracker is a comprehensive flight booking platform built with modern web technologies. It offers intelligent flight search, real-time price tracking, secure payment processing, and a suite of travel companion features to enhance your booking experience.
 
@@ -52,10 +44,7 @@ AirTracker is a comprehensive flight booking platform built with modern web tech
 - 💳 **Secure Payments** - Multiple payment options with robust security
 - 🎫 **Digital Experience** - Paperless boarding passes and travel management
 
-</details>
-
-<details>
-<summary>✨ Features</summary>
+## ✨ Features
 
 ### 🔥 Core Features
 - **Intelligent Flight Search** with city name autocomplete
@@ -86,10 +75,7 @@ AirTracker is a comprehensive flight booking platform built with modern web tech
 - **Firebase Integration** for secure data storage
 - **Optimized Bundle Size** with code splitting
 
-</details>
-
-<details>
-<summary>🛠️ Tech Stack</summary>
+## 🛠️ Tech Stack
 
 ### Frontend
 - **React 18** - Modern UI library with hooks
@@ -109,10 +95,7 @@ AirTracker is a comprehensive flight booking platform built with modern web tech
 - **Git** - Version control
 - **Netlify/Vercel** - Deployment platforms
 
-</details>
-
-<details>
-<summary>🚀 Quick Start</summary>
+## 🚀 Quick Start
 
 ### Prerequisites
 - Node.js (v16 or higher)
@@ -148,12 +131,9 @@ AirTracker is a comprehensive flight booking platform built with modern web tech
    http://localhost:5173
    ```
 
-</details>
+## 🔧 Environment Setup
 
-<details>
-<summary>🔧 Environment Setup</summary>
-
-Create a `.env` file in the AirTracker01 directory:
+Create a `.env` file in the root directory:
 
 ```env
 # Firebase Configuration
@@ -177,39 +157,26 @@ REACT_APP_EXCHANGE_API_KEY=your_exchange_api_key
 3. **OpenWeather**: [API](https://openweathermap.org/api) → Sign up → Get API Key
 4. **ExchangeRate**: [API](https://exchangerate-api.com/) → Free Plan → Get Key
 
-</details>
-
-<details>
-<summary>📁 Project Structure</summary>
+## 📁 Project Structure
 
 ```
-AirTracker/
-├── AirTracker01/           # Main application
-│   ├── public/            # Static assets
-│   ├── src/
-│   │   ├── Components/    # React components
-│   │   │   ├── Home/     # Home page components
-│   │   │   ├── Booking/  # Booking flow
-│   │   │   ├── Payment/  # Payment processing
-│   │   │   └── ...       # Other features
-│   │   ├── Config/       # Configuration files
-│   │   ├── constants.js  # App constants
-│   │   └── App.jsx      # Main app component
-│   ├── package.json     # Dependencies
-│   └── vercel.json      # Deployment config
-├── ImagesOutput/          # Screenshots
+AirTracker01/
+├── public/                 # Static assets
+├── src/
+│   ├── Components/         # React components
+│   │   ├── Home/          # Home page components
+│   │   ├── Booking/       # Booking flow
+│   │   ├── Payment/       # Payment processing
+│   │   └── ...            # Other features
+│   ├── Config/            # Configuration files
+│   ├── constants.js       # App constants
+│   └── App.jsx           # Main app component
 ├── .env.example          # Environment template
-├── CONTRIBUTING.md       # Contribution guidelines
-├── DEPLOYMENT.md         # Deployment guide
-├── CHANGELOG.md          # Version history
-├── LICENSE              # MIT license
-└── README.md           # Main documentation
+├── package.json          # Dependencies
+└── README.md            # Documentation
 ```
 
-</details>
-
-<details>
-<summary>🔌 API Integration</summary>
+## 🔌 API Integration
 
 ### Available Scripts
 
@@ -232,10 +199,7 @@ npm run build
 # Deploy dist/ folder
 ```
 
-</details>
-
-<details>
-<summary>🎬 Demo & Screenshots</summary>
+## 🎬 Demo & Screenshots
 
 ### 📹 Project Demonstration
 [**Watch Full Demo Video**](https://youtu.be/O0dEew24_XM?si=XBNtTMTE5BO2LzJH) - Complete walkthrough of all features
@@ -266,10 +230,7 @@ npm run build
 
 </div>
 
-</details>
-
-<details>
-<summary>🤝 Contributing</summary>
+## 🤝 Contributing
 
 We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
 
@@ -280,10 +241,7 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 4. Push to branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-</details>
-
-<details>
-<summary>👥 Team</summary>
+## 👥 Team
 
 <div align="center">
 
@@ -296,14 +254,9 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 
 </div>
 
-</details>
-
-<details>
-<summary>📄 License</summary>
+## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-</details>
 
 ## 🙏 Acknowledgments
 
