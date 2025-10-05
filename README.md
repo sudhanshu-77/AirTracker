@@ -241,7 +241,9 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 4. Push to branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 👥 Team
+
+<details>
+<summary>👥 Team</summary>
 
 <div align="center">
 
@@ -253,6 +255,8 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 | **Akshat Maheswari** | Backend Developer | [@akshat-maheswari](https://github.com/akshat-maheswari) |
 
 </div>
+
+</details>
 
 ## 📄 License
 
