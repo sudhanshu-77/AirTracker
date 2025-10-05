@@ -1,120 +1,289 @@
-<h1 align="center">AirTracker - Affordable Flight Companion</h1>
-<div align="center">
-<a href="https://github.com/sudhanshu-77/AirTracker/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/sudhanshu-77/AirTracker?color=2b9348"></a>
-<a href="https://github.com/sudhanshu-77/AirTracker/issues"><img src="https://img.shields.io/github/issues/sudhanshu-77/AirTracker"></a>
-<a><img src="https://img.shields.io/github/forks/sudhanshu-77/AirTracker"></a>
-<a><img src="https://img.shields.io/github/stars/sudhanshu-77/AirTracker"></a>
+<h1 align="center">✈️ AirTracker - Smart Flight Booking Platform</h1>
 
-[![](https://visitcount.itsvg.in/api?id=sudhanshu-77&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
+<div align="center">
+  <p><em>Your intelligent companion for affordable flight booking with advanced features</em></p>
+  
+  <a href="https://github.com/sudhanshu-77/AirTracker/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/sudhanshu-77/AirTracker?color=2b9348"></a>
+  <a href="https://github.com/sudhanshu-77/AirTracker/issues"><img src="https://img.shields.io/github/issues/sudhanshu-77/AirTracker"></a>
+  <a href="https://github.com/sudhanshu-77/AirTracker/network/members"><img src="https://img.shields.io/github/forks/sudhanshu-77/AirTracker"></a>
+  <a href="https://github.com/sudhanshu-77/AirTracker/stargazers"><img src="https://img.shields.io/github/stars/sudhanshu-77/AirTracker"></a>
+  <a href="https://github.com/sudhanshu-77/AirTracker/blob/master/LICENSE"><img src="https://img.shields.io/github/license/sudhanshu-77/AirTracker"></a>
+  
+  [![React](https://img.shields.io/badge/React-18.0+-blue.svg)](https://reactjs.org/)
+  [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3.0+-green.svg)](https://tailwindcss.com/)
+  [![PWA](https://img.shields.io/badge/PWA-Enabled-purple.svg)](https://web.dev/progressive-web-apps/)
+  
+  [![](https://visitcount.itsvg.in/api?id=sudhanshu-77&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 </div>
 
+## 🚀 Live Deployments
 
+- **⚡ Vercel**: Live Website </a> [Link](https://air-tracker-umber.vercel.app/).
 
-## <a align="left"> Live Website </a> [Link](https://airtraker.netlify.app/).
+## 📋 Table of Contents
 
+- [Overview](#overview)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Quick Start](#quick-start)
+- [Environment Setup](#environment-setup)
+- [Project Structure](#project-structure)
+- [API Integration](#api-integration)
+- [Demo & Screenshots](#demo--screenshots)
+- [Contributing](#contributing)
+- [Team](#team)
+- [License](#license)
 
-### Objective:
-The main objectives of this project are to develop a web application that allows users to:
-* 	Search for the cheapest flights
-* 	Track ticket prices
-  
-### Scope:
-The project will cover the following features:
-* 	Flight search functionality: Users can search for flights by specifying their origin, destination, and travel dates. The application will display a list of flights with their corresponding prices.
-* 	Ticket price tracking: Users can track the prices of flights that they are interested in. The application will notify users when the price of a tracked flight changes.
-* 	Price change notification: Users can receive notifications about price changes for tracked flights via email or SMS.
+## 🎯 Overview
 
-### Methodology:
-The project will be developed by using the following technologies:
-* 	Frontend: React, HTML, CSS, and JavaScript
-* 	Backend: Node.js, Express.js, and MongoDB
-* 	Other tools: Git, GitHub, and Visual Studio Code
+AirTracker is a comprehensive flight booking platform built with modern web technologies. It offers intelligent flight search, real-time price tracking, secure payment processing, and a suite of travel companion features to enhance your booking experience.
 
-### Proposed System:
-The AirTracker application will be a web application that will be accessible to users on any device with a web browser. The application will use a variety of APIs to fetch flight data and to send price change notifications.
-Features:
-The following are the key features of the AirTracker application:
-* 	Flight search functionality
-* 	Ticket price tracking
-* 	Price change notification
+### Key Objectives
+- 🔍 **Smart Flight Search** - Find the best deals with AI-powered recommendations
+- 📊 **Price Intelligence** - Track and alert on price changes
+- 💳 **Secure Payments** - Multiple payment options with robust security
+- 🎫 **Digital Experience** - Paperless boarding passes and travel management
 
-### Implementation Plan:
-The following is a high-level implementation plan for the AirTracker project:
-1.	Design the database schema.
-2.	Develop the backend API.
-3.	Develop the frontend user interface.
-4.	Integrate the frontend and backend components.
-5.	Test the application.
-6.	Deploy the application.
+## ✨ Features
 
-### Team Members:
-The following are the team members and their roles:
-* 	Pankaj Ajmera: Frontend development & Backend development
-* 	Sudhanshu Tripathi: Frontend development & Backend development
-* 	Rishit Gupta: Frontend development & Backend development
-* 	Akshat Maheswari: Frontend development & Backend development
+### 🔥 Core Features
+- **Intelligent Flight Search** with city name autocomplete
+- **Real-time Price Tracking** and alerts
+- **Dual Payment Integration** (Razorpay + UPI)
+- **Digital Boarding Pass** with QR codes
+- **Multi-city Trip Planner** with route optimization
+- **Weather Insights** and travel recommendations
 
-### Resources Required:
-The following resources are required for the project:
-* 	Frontend technologies: HTML, CSS, JavaScript, and React
-* 	Backend technologies: Node.js, Express.js, and MongoDB
-* 	Basic tools: Git, GitHub, and Visual Studio Code
+### 🎨 User Experience
+- **Dark/Light Mode** with system preference detection
+- **Responsive Design** for all devices
+- **PWA Support** for offline functionality
+- **Enhanced Loading States** with skeleton screens
+- **Currency Converter** with real-time rates
 
-### References:
-The following resources will be used as references for the project:
-* Online resources: YouTube, Google, Technologies Documentations, etc.
-* Other resources: Mentor guidance.
-<p align="right">(<a href="#top">Back to top</a>)</p>
+### 🤖 Smart Features
+- **AI-Powered Recommendations** for destinations
+- **Flexible Date Calendar** with price heatmap
+- **Alternative Airport Suggestions**
+- **Travel Companion Tools** for group bookings
+- **Price Alert System** with smart notifications
 
-## Requirements
+### 🛡️ Security & Performance
+- **Environment Variable Configuration**
+- **Input Validation** and sanitization
+- **Error Handling** with user-friendly messages
+- **Firebase Integration** for secure data storage
+- **Optimized Bundle Size** with code splitting
 
-- nodejs
-- npm
+## 🛠️ Tech Stack
 
-## Getting started
+### Frontend
+- **React 18** - Modern UI library with hooks
+- **Vite** - Fast build tool and dev server
+- **Tailwind CSS** - Utility-first CSS framework
+- **React Router** - Client-side routing
+- **Lucide React** - Beautiful icon library
 
-To get started with this project, first install the npm dependencies:
+### Backend & Services
+- **Firebase** - Authentication and Firestore database
+- **Razorpay** - Payment processing
+- **OpenWeather API** - Weather data
+- **ExchangeRate API** - Currency conversion
 
-```bash
-npm install
+### Development Tools
+- **ESLint** - Code linting
+- **Git** - Version control
+- **Netlify/Vercel** - Deployment platforms
+
+## 🚀 Quick Start
+
+### Prerequisites
+- Node.js (v16 or higher)
+- npm or yarn
+- Git
+
+### Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/sudhanshu-77/AirTracker.git
+   cd AirTracker/AirTracker01
+   ```
+
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Set up environment variables**
+   ```bash
+   cp .env.example .env
+   # Edit .env with your API keys
+   ```
+
+4. **Start development server**
+   ```bash
+   npm run dev
+   ```
+
+5. **Open your browser**
+   ```
+   http://localhost:5173
+   ```
+
+## 🔧 Environment Setup
+
+Create a `.env` file in the root directory:
+
+```env
+# Firebase Configuration
+REACT_APP_FIREBASE_API_KEY=your_firebase_api_key
+REACT_APP_FIREBASE_AUTH_DOMAIN=your_project.firebaseapp.com
+REACT_APP_FIREBASE_PROJECT_ID=your_project_id
+REACT_APP_FIREBASE_STORAGE_BUCKET=your_project.appspot.com
+REACT_APP_FIREBASE_MESSAGING_SENDER_ID=your_sender_id
+REACT_APP_FIREBASE_APP_ID=your_app_id
+
+# API Keys
+REACT_APP_RAZORPAY_KEY_ID=your_razorpay_key
+REACT_APP_WEATHER_API_KEY=your_openweather_key
+REACT_APP_EXCHANGE_API_KEY=your_exchange_api_key
 ```
 
-Next, run the development server:
+### API Setup Guide
+
+1. **Firebase**: [Console](https://console.firebase.google.com/) → Create Project → Get Config
+2. **Razorpay**: [Dashboard](https://dashboard.razorpay.com/) → Settings → API Keys
+3. **OpenWeather**: [API](https://openweathermap.org/api) → Sign up → Get API Key
+4. **ExchangeRate**: [API](https://exchangerate-api.com/) → Free Plan → Get Key
+
+## 📁 Project Structure
+
+```
+AirTracker01/
+├── public/                 # Static assets
+├── src/
+│   ├── Components/         # React components
+│   │   ├── Home/          # Home page components
+│   │   ├── Booking/       # Booking flow
+│   │   ├── Payment/       # Payment processing
+│   │   └── ...            # Other features
+│   ├── Config/            # Configuration files
+│   ├── constants.js       # App constants
+│   └── App.jsx           # Main app component
+├── .env.example          # Environment template
+├── package.json          # Dependencies
+└── README.md            # Documentation
+```
+
+## 🔌 API Integration
+
+### Available Scripts
 
 ```bash
-npm run dev
+npm run dev          # Start development server
+npm run build        # Build for production
+npm run preview      # Preview production build
+npm run lint         # Run ESLint
 ```
-Next, open localhost server:
+
+### Deployment Commands
 
 ```bash
-localhost:5173
+# Vercel
+npm run build
+vercel --prod
+
+# Netlify
+npm run build
+# Deploy dist/ folder
 ```
 
+## 🎬 Demo & Screenshots
 
+### 📹 Project Demonstration
+[**Watch Full Demo Video**](https://youtu.be/O0dEew24_XM?si=XBNtTMTE5BO2LzJH) - Complete walkthrough of all features
 
-## Output:
+### 📱 Application Screenshots
 
-## <a align="left"> Project Demonstration Video </a> [Link](https://youtu.be/O0dEew24_XM?si=XBNtTMTE5BO2LzJH).
+<div align="center">
 
-## Login :
-![Output Screen shot](ImagesOutput/login.png)
+#### 🔐 Authentication
+![Login Interface](ImagesOutput/login.png)
+*Secure user authentication with modern UI*
 
-## Home :
-![Output Screen shot](ImagesOutput/home.png)
+#### 🏠 Home Dashboard
+![Home Page](ImagesOutput/home.png)
+*Intelligent search with AI recommendations*
 
-## Best Results :
-![Output Screen shot](ImagesOutput/result.png)
+#### 🔍 Search Results
+![Flight Results](ImagesOutput/result.png)
+*Advanced filtering and real-time price comparison*
 
-## Passenger Booking :
-![Output Screen shot](ImagesOutput/book.png)
+#### ✈️ Booking Process
+![Passenger Booking](ImagesOutput/book.png)
+*Streamlined booking with payment integration*
 
-## Explore more :
-![Output Screen shot](ImagesOutput/explore.png)
+#### 🌍 Explore Features
+![Explore Page](ImagesOutput/explore.png)
+*Travel insights and destination discovery*
 
-<p align="right">(<a href="#top">Back to top</a>)</p>
+</div>
 
+## 🤝 Contributing
 
+We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
 
+### Development Workflow
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit changes (`git commit -m 'Add amazing feature'`)
+4. Push to branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
 
+## 👥 Team
 
+<div align="center">
 
+| Developer | Role | GitHub |
+|-----------|------|--------|
+| **Sudhanshu Tripathi** | Lead Developer & UI/UX | [@sudhanshu-77](https://github.com/sudhanshu-77) |
+| **Pankaj Ajmera** | Full Stack Developer | [@pankaj-ajmera](https://github.com/pankaj-ajmera) |
+| **Rishit Gupta** | Frontend Developer | [@rishit-gupta](https://github.com/rishit-gupta) |
+| **Akshat Maheswari** | Backend Developer | [@akshat-maheswari](https://github.com/akshat-maheswari) |
+
+</div>
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🙏 Acknowledgments
+
+- Firebase for backend services
+- Razorpay for payment processing
+- OpenWeather for weather data
+- Tailwind CSS for styling
+- React community for amazing tools
+
+## 📞 Support
+
+If you have any questions or need help:
+- 📧 Email: sudhanshu.tripathi77@example.com
+- 💼 LinkedIn: [Sudhanshu Tripathi](https://www.linkedin.com/in/sudhanshu-tripathi77)
+- 🐛 Issues: [GitHub Issues](https://github.com/sudhanshu-77/AirTracker/issues)
+
+## 🗺️ Roadmap
+
+- [ ] Real-time flight API integration
+- [ ] Advanced analytics dashboard
+- [ ] Mobile app (React Native)
+- [ ] Machine learning recommendations
+- [ ] Blockchain loyalty program
+
+---
+
+<div align="center">
+  <p><strong>Made with ❤️ by the AirTracker Team</strong></p>
+  <p><a href="#top">⬆️ Back to Top</a></p>
+</div>
