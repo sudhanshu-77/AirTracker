@@ -1,21 +1,6 @@
 <h1 align="center">✈️ AirTracker - Smart Flight Booking Platform</h1>
 
-<h1 align="center">✈️ AirTracker - Smart Flight Booking Platform</h1>
-
 <div align="center">
-  <p><em>Your intelligent companion for affordable flight booking with advanced features</em></p>
-  
-  <a href="https://github.com/sudhanshu-77/AirTracker/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/sudhanshu-77/AirTracker?color=2b9348"></a>
-  <a href="https://github.com/sudhanshu-77/AirTracker/issues"><img src="https://img.shields.io/github/issues/sudhanshu-77/AirTracker"></a>
-  <a href="https://github.com/sudhanshu-77/AirTracker/network/members"><img src="https://img.shields.io/github/forks/sudhanshu-77/AirTracker"></a>
-  <a href="https://github.com/sudhanshu-77/AirTracker/stargazers"><img src="https://img.shields.io/github/stars/sudhanshu-77/AirTracker"></a>
-  <a href="https://github.com/sudhanshu-77/AirTracker/blob/master/LICENSE"><img src="https://img.shields.io/github/license/sudhanshu-77/AirTracker"></a>
-  
-  [![React](https://img.shields.io/badge/React-18.0+-blue.svg)](https://reactjs.org/)
-  [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3.0+-green.svg)](https://tailwindcss.com/)
-  [![PWA](https://img.shields.io/badge/PWA-Enabled-purple.svg)](https://web.dev/progressive-web-apps/)
-  
-  [![](https://visitcount.itsvg.in/api?id=sudhanshu-77&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
   <p><em>Your intelligent companion for affordable flight booking with advanced features</em></p>
   
   <a href="https://github.com/sudhanshu-77/AirTracker/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/sudhanshu-77/AirTracker?color=2b9348"></a>
@@ -232,13 +217,7 @@ npm run dev          # Start development server
 npm run build        # Build for production
 npm run preview      # Preview production build
 npm run lint         # Run ESLint
-npm run dev          # Start development server
-npm run build        # Build for production
-npm run preview      # Preview production build
-npm run lint         # Run ESLint
 ```
-
-### Deployment Commands
 
 ### Deployment Commands
 
